@@ -1,6 +1,6 @@
 # SpyKalu
 <p align="center">
-<img src="https://github.com/kaluramkhorwal3/SpyKalu/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/kaluramkhorwal3/SpyKalu/raw/master/logo.png" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
