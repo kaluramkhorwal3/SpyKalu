@@ -28,10 +28,10 @@ A cloud based remote android managment suite, powered by NodeJS
 - Built In APK Builder
 
 
-## Installation
-### For TermuxBlack Users
-- `apt install spykalu`
-- Run server `spykalu`
+
+
+
+
 
 ### For Termux Users
 1. Install NodeJs `apt install nodejs`
