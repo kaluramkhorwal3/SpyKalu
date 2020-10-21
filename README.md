@@ -50,7 +50,7 @@ A cloud based remote android managment suite, powered by NodeJS
 
 
 ## Thanks
- - Inspiration for the project and the basic building blocks for the Android App are based off [L3MON](https://github.com/D3VL/L3MON) 
+ - Inspiration for the project and the basic building blocks for the Android App are based off [KALU]( https://github.com/kaluramkhorwal3)
  
 
 ## Disclaimer
